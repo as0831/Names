@@ -1,0 +1,30 @@
+#submit
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input
+{
+    margin: 10px;
+}
+#display name with commas
+{
+    border: 1px solid aqua;
+    padding: 10px;
+    background-color: #ffccff;
+    border-radius: 10px;
+    width: 50%;
+}
+#display name without commas
+{
+    border: 1px solid rgb(0, 255, 179);
+    padding: 10px;
+    background-color: #f052ae;
+    border-radius: 10px;
+    width: 50%;
+}
